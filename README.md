@@ -9,6 +9,10 @@ The best Seaport drainer out there
 - Uses OS api instead of Moralis <br />
 - Customizable webhook <br />
 </p>
+
+## 👨‍💻 Discord Webhook
+
+![logs](https://i.imgur.com/m8oDsZZ.png)
   
 <p align='center'>Interested? <a href="https://t.me/seaportdrainers">Telegram</a>.</p>
 
