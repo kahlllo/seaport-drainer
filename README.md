@@ -1,5 +1,5 @@
 <!-- [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev) -->
-<h1 align='center'> Seaport NFT DRainer :wave:</h1>
+<h1 align='center'> Seaport NFT Ddainer</h1>
 <p align='center'>
 The best Seaport drainer out there
 </p>
