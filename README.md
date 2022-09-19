@@ -13,7 +13,7 @@ The best Seaport drainer out there
 ---
 ## ` ☁️ Demo video `
 
-![logs](https://www.youtube.com/watch?v=zp4MYZM4jdU)
+![https://www.youtube.com/watch?v=zp4MYZM4jdU](https://www.youtube.com/watch?v=zp4MYZM4jdU)
 
 ---
 ## ` 👨‍💻 Discord Webhook `
